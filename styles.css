@@ -98,7 +98,7 @@ p {
 }
 
 /* Responsividade */
-@media (max-width: 845px) {
+@media (max-width: 945px) {
     header {
         justify-content: center;
         margin: 20px;
